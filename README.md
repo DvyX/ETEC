@@ -1,2 +1,2 @@
 # School
-School Stufs
+Coisas de escola
