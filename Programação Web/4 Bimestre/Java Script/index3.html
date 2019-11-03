@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>ISSO É JAVA PARTE 3</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+            var s,sa,d;
+            s = parseFloat(prompt("Digite o salário:"));
+            if(s<=1751.81){
+                d = s*8/100;
+            }else if(s<=2919.72){
+                d = s*9/100;
+            }else if(s<=5839.45){
+                d = s*11/100;
+            }else{
+                alert("isento ou sla a professora n explicou!")
+            }
+            sa = s-d;
+            alert("Salário Bruto: "+s);
+            alert("Desconto "+d);
+            alert("Salário Atualizado: "+sa);
+        </script>
+    </body>
+</html>

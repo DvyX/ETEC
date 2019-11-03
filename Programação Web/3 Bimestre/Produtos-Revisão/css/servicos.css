@@ -1,0 +1,74 @@
+#container{
+    width: 100%;
+    align-content: center;
+    margin-left: 200px;
+    text-align: center;
+}
+.item{
+    float:left;
+    padding: 20px;
+    margin: 10px;
+    border-style: groove;
+    border-color: #000000;
+    border-width: 5px;
+    width: 230px;
+    height: 400px;
+    background-color: #ffffff;
+    transition: 300ms;
+    align-content: center;
+}
+.item:hover{
+    float:left;
+    padding: 30px;
+    margin: 10px;
+    border-style: ridge;
+    border-color: #000000;
+    border-width: 5px;
+    width: 230px;
+    background-color: #86CB8E;
+}
+.nome{
+    font-size: 30px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+.produto{
+    height: 300px;
+    width: 230px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 5px;
+}
+.preco{
+    font-size: 20px;
+    background-color: #000000;
+    color: #2CFF00;
+}
+label{
+    font-family: verdana;
+    font-size: 20px;
+}
+input{
+    height: 25px;
+}
+textarea{
+    height: 100px;
+    width: 500px;
+}
+#button{
+    height: 30px;
+    width: 100px;
+}
+form{
+    float: left;
+    margin-left: 35%;
+    width: 500px;
+    padding: 1em;
+    border: 3px;
+    background: #fff;
+    border-radius: 25px;
+    border-style: dotted;
+    border-color: #00DB26;
+}

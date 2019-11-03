@@ -1,0 +1,30 @@
+#content{
+    height:800px;
+    background:#FFFFFF;
+    width:80%;
+    position:inherit;
+    top:0px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+.galeria{
+    left: auto;
+    right: auto;
+    width: 30%; 
+    height: 200px;
+}
+#galeria{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#titulo2{
+    font-size: 50px;
+    font-family: Baskerville Old Face;
+    text-align: center;
+    text-decoration: underline;
+    color: #ffffff;
+    background: #000000;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

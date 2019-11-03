@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>Formulário</title>
+    </head>
+    <body>
+        <center>
+            <h1>Formulário</h1>
+        </center>
+        <form name="cadastroAluno">
+            <label>Nome:</label>
+            <input type="text" name="txtNome" id="txtNome">
+            <br>
+            <label>E-mail:</label>
+            <input type="email" name="txtEmail" id="email">
+            <br>
+            <label>Data de Nascimeto:</label>
+            <input type="date" name="txtDtNascimennto" id="DtNascimento">
+            <br>
+            <label>Sexo:</label>
+            <select name="slSexo" id="slSexo">
+                <option>Selecione</option>
+                <option>Masculino</option>
+                <option>Feminino</option>
+            </select>
+            <br>
+            <label>Interesses:</label>
+            <input type="checkbox" name="ckEsportes" id="ckEsportes">Esportes
+            <input type="checkbox" name="ckProgramacao" id="ckProgramacao">Programação
+            <input type="checkbox" name="ckArtes" id="ckArtes">Artes
+            <input type="checkbox" name="ckLiteratura" id="ckLiteratura">Literatura
+            <br>
+            <label>Turma:</label>
+            <input type="radio" name="rdTurma">1 Mtec A
+            <input type="radio" name="rdTurma">1 Mtec B
+            <input type="radio" name="rdTurma">1 Modular
+            <br>
+            <label>Observações:</label>
+            <textarea name="txtObs" id="txtObs"></textarea>
+            <input type="submit" value="Salvar">
+        </form>
+    </body>
+</html>

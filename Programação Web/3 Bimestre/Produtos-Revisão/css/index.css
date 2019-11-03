@@ -1,0 +1,113 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #fff;
+}
+.container{
+    width: auto;
+    margin-left: 17%;
+    align-content: center;
+    text-align: center;
+}
+#conteinerAll{
+    width:auto;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #747474;
+}
+.item1{
+    float:left;
+    padding: 20px;
+    margin: 10px;
+    border-style: groove;
+    border-color: #000000;
+    border-width: 5px;
+    width: 230px;
+    height: 400px;
+    background-color: #ffffff;
+    transition: 300ms;
+    align-content: center;
+}
+.item1:hover{
+    float:left;
+    padding: 30px;
+    margin: 10px;
+    border-style: ridge;
+    border-color: #000000;
+    border-width: 5px;
+    width: 230px;
+    background-color: #7A62C9;
+}
+.item2{
+    float:left;
+    padding: 20px;
+    margin: 10px;
+    border-style: groove;
+    border-color: #000000;
+    border-width: 5px;
+    width: 230px;
+    height: 400px;
+    background-color: #ffffff;
+    transition: 300ms;
+    align-content: center;
+}
+.item2:hover{
+    float:left;
+    padding: 30px;
+    margin: 10px;
+    border-style: ridge;
+    border-color: #000000;
+    border-width: 5px;
+    width: 230px;
+    background-color: #86CB8E;
+}
+.nome{
+    font-size: 30px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+.produto{
+    height: 300px;
+    width: 230px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 5px;
+}
+.preco{
+    font-size: 20px;
+    background-color: #000000;
+    color: #2CFF00;
+} 
+.subtitulo3{
+    font-size: 35px;
+    font-family: "Constantia";
+    color: #fff;
+    text-decoration: underline;
+    text-align: center;
+    background-color: #424242;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#playBanner{
+    width: 500px;
+    margin-left: 31%;
+    transition: 300ms;
+}
+#playBanner:hover{
+    width: 550px;
+}
+.titulo2Alt{
+    font-size: 45px;
+    margin-top: -16px;
+    margin-left: -38px;
+    margin-bottom: 0px;
+    padding-bottom: auto;
+    font-family: "Constantia";
+    background-color: #000;
+    color: #ffffff;
+    text-decoration: underline;
+    text-align: center;
+}

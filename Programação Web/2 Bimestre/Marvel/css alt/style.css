@@ -1,0 +1,916 @@
+body{
+    background: #D6D6D6;
+    color ;
+    font-family: ;
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:0px;
+}
+h1{
+    font-size:80px;
+    background: #1C1C1C;
+    height:200px;
+    text-align:center;
+    padding:35px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+}
+#marvel{
+    text-align: center;
+    height: 150px;
+    padding: 25px;
+}
+nav{
+    margin-top: -16px;
+    padding: 0px;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    width: 1309px;
+    height: 100px;
+    background:#272727;
+}
+li a{
+    text-decoration: none;
+    color: #FF2A2A;
+    text-transform: uppercase;
+    font-size: 30px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-left: -13px;
+    font-family: fantasy;
+    margin-top: 30px;
+}
+li a:hover{
+    color:#FFFFFF;
+    background:#FF2A2A;
+}
+p{
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+h3{
+    margin-top: 50px;
+    font-family: sans-serif;
+    margin-left: 430px;
+}
+#para2{
+    margin-top: 0px;  
+}
+#postera{
+    height: 370px;
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 25px;
+    float:left;
+}
+#titulovingadores{
+    font-size: 50px;
+    font-family:Impact;
+    text-align: center;
+    margin-top: 35px;
+}
+#texto{
+    font-family:Verdana;
+    font-size: 20px;
+    margin-left: 280px;
+    margin-right: 15px;
+}
+#enredoS{
+    font-family:Verdana;
+    font-size:30px;
+    font-weight: bold;
+    text-decoration:underline;
+    margin-top: 100px;
+}
+#texto2{
+    font-family:Verdana;
+    font-size: 20px;
+    margin-right: 15px;
+}
+#sagaT{
+    font-family:Impact;
+    font-size:50px;
+    text-align: center
+}
+#textosaga{
+    font-size: 20px;
+    font-family:Verdana;
+    text-align: center;
+    margin-right: 20px;
+}
+#capitao1{
+    width: 250px;
+    height: 380px;
+    margin-top: 80px;
+    margin-left: 20px;
+    float: left;
+}
+#capitao1Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+#capitao1Su{
+    font-family:Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+#capitao1Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+#cmarvel{
+    width: 250px;
+    height: 380px;
+    margin-top: 180px;
+    margin-left: -250px;
+    float: left;
+}
+#cmarvelTi{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#cmarvelSu{
+    font-family:Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+#cmarvelTe{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+#iron1{
+    width: 250px;
+    height: 380px;
+    margin-top: 380px;
+    margin-left: -250px;
+    float: left;
+}
+#iron1Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 430px;
+    margin-left: 300px;
+}
+#iron1Su{
+    font-family:Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+#iron1Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#iron2{
+    width: 250px;
+    height: 380px;
+    margin-top: 150px;
+    margin-left: 20px;
+    float: left;
+}
+#iron2Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 300px;
+}
+#iron2Su{
+    font-family:Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+#iron2Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#hulk{
+    width: 250px;
+    height: 380px;
+    margin-top: 150px;
+    margin-left: 20px;
+    float: left;
+}
+#hulkTi{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 300px;
+}
+#hulkSu{
+    font-family:Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+#hulkTe{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#thor1{
+    width: 250px;
+    height: 380px;
+    margin-top: 150px;
+    margin-left: 20px;
+    float: left;
+}
+#thor1Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 300px;
+}
+#thor1Su{
+    font-family:Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+#thor1Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#vingadores1{
+    width: 250px;
+    height: 380px;
+    margin-top: 150px;
+    margin-left: -250px;
+    float: left;
+}
+#vingadores1Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 300px;
+}
+#vingadores1Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+#vingadores1Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#iron3{
+    width: 250px;
+    height: 380px;
+    margin-top: 120px;
+    margin-left: 20px;
+    float: left;
+}
+#iron3Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 140px;
+    margin-left: 300px;
+}
+#iron3Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;   
+}
+#iron3Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#thor2{
+    width: 250px;
+    height: 380px;
+    margin-top: 250px;
+    margin-left: -250px;
+    float: left;
+}
+#thor2Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 270px;
+    margin-left: 300px;
+}
+#thor2Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;   
+}
+#thor2Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#capitao2{
+    width: 250px;
+    height: 380px;
+    margin-top: 250px;
+    margin-left: -250px;
+    float: left;
+}
+#capitao2Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 270px;
+    margin-left: 300px;
+}
+#capitao2Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;  
+}
+#capitao2Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#guar1{
+    width: 250px;
+    height: 380px;
+    margin-top: 150px;
+    margin-left: 20px;
+    float: left;
+}
+#guar1Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 300px;
+}
+#guar1Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#guar1Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#guar2{
+    width: 250px;
+    height: 380px;
+    margin-top: 150px;
+    margin-left: -250px;
+    float: left;
+}
+#guar2Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 300px;
+}
+#guar2Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#guar2Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#vingadores2{
+    width: 250px;
+    height: 380px;
+    margin-top: 200px;
+    margin-left: -250px;
+    float: left;
+}
+#vingadores2Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 220px;
+    margin-left: 300px;
+}
+#vingadores2Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#vingadores2Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#formiga1{
+    width: 250px;
+    height: 380px;
+    margin-top: 180px;
+    margin-left: -250px;
+    float: left;
+}
+#formiga1Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#formiga1Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#formiga1Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#capitao3{
+    width: 250px;
+    height: 380px;
+    margin-top: 180px;
+    margin-left: 20px;
+    float: left;
+}
+#capitao3Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#capitao3Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#capitao3Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#aranha{
+    width: 250px;
+    height: 380px;
+    margin-top: 180px;
+    margin-left: -250px;
+    float: left;
+}
+#aranhaTi{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#aranhaSu{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#aranhaTe{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#estranho{
+    width: 250px;
+    height: 380px;
+    margin-top: 180px;
+    margin-left: -250px;
+    float: left;
+}
+#estranhoTi{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#estranhoSu{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#estranhoTe{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#pantera{
+    width: 250px;
+    height: 380px;
+    margin-top: 180px;
+    margin-left: -250px;
+    float: left;
+}
+#panteraTi{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#panteraSu{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#panteraTe{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#thor3{
+    width: 250px;
+    height: 380px;
+    margin-top: 180px;
+    margin-left: -250px;
+    float: left;
+}
+#thor3Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#thor3Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#thor3Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#formiga2{
+    width: 250px;
+    height: 380px;
+    margin-top: 250px;
+    margin-left: -250px;
+    float: left;
+}
+#formiga2Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 270px;
+    margin-left: 300px;
+}
+#formiga2Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#formiga2Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#vingadores3{
+    width: 250px;
+    height: 380px;
+    margin-top: 300px;
+    margin-left: -250px;
+    float: left;
+}
+#vingadores3Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 320px;
+    margin-left: 300px;
+}
+#vingadores3Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#vingadores3Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#vingadores4{
+    width: 250px;
+    height: 380px;
+    margin-top: 180px;
+    margin-left: -250px;
+    float: left;
+}
+#vingadores4Ti{
+    font-family:Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+#vingadores4Su{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#vingadores4Te{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#endgamelogo{
+    width: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#endgame{
+    width: 1250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#ingresso{
+    text-decoration:none;
+    color:#FF7100;
+    background:#5C0DAC;
+    text-transform:uppercase;
+    font-size: 30px;
+    width: 20%;
+    font-family:Verdana;
+    text-align:center;
+}
+#ingresso:hover{
+    color: #7F02FF;
+    background: #000000;
+    text-decoration: underline;
+    text-align: center;
+}
+#titulo{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 200px;
+    margin-left: 0px;
+    text-align: center;
+}
+#smffh{
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#smffhtrailer{
+    text-decoration: none;
+    color: #051845;
+    background:#DB1000;
+    text-transform: uppercase;
+    font-size: 30px;
+    width: 20%;
+    font-family: verdana;
+    text-align: center;
+}
+#smffhtrailer:hover{
+    color: #FFAA00;
+    background: #051845;
+    text-decoration: underline;
+    text-align: center;
+}
+#marvel10{
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+label{
+    font-family: verdana;
+    font-size: 20px;
+}
+input{
+    height: 25px;
+}
+select{
+    height: 25px;
+}
+#button{
+    height: 30px;
+    width: 100px;
+}
+form{
+    margin: 0 auto;
+    width: 500px;
+    padding: 1em;
+    border: 1px;
+    background: white;
+    border-radius: 25px;
+}
+#estudioTi{
+    font-family:Verdana;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 100px;
+    text-align: center;
+}
+#estudioTe{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 50px;
+    margin-right: 25px;
+}
+#estudioTe1{
+    font-family: Verdana;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 100px;
+    margin-right: 25px;
+}
+#rodape{
+    height: 200px;
+    background:#1C1C1C;
+    align-content: center;
+}
+#rodapemarvel{
+    height: 100px;
+    width: 500px;
+    margin-left: -800px;
+    margin-top: 35px;
+}
+#direitos{
+    font-family:fantasy;
+    font-size: 20px;
+    padding-left: 0px;
+    margin-left: -780px;
+}
+#icon1{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 700px;
+}
+#icon2{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#icon3{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#icon4{
+    height: 30px;
+    width: 30px; 
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#icon5{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#icon6{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#icon7{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#sigamarvel{
+    font-size: 30px;
+    margin-top: -155px;
+    margin-left: 700px;
+    font-family:impact;
+    padding: 0px;
+    margin-bottom: 0px;
+}

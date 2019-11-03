@@ -1,0 +1,138 @@
+#content{
+    height:4000px;
+    background:#FFFFFF;
+    width:80%;
+    position:inherit;
+    top:0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bannergif{
+    width:100%;
+    height:600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    background-color: #000000;
+}
+#welcome{
+    width:100%;
+    height:150px;
+    background:#000000;
+    font-family: Algerian;
+    font-size: 100px;
+    color:#F2CA00; 
+    position:absolute;
+    top:150px;
+    text-align: center;
+    display:block;
+}
+#welcomeTxT{
+    font-family: Algerian;
+    font-size: 100px;
+    color:#F2CA00; 
+    top:-90px;
+    position:absolute;
+    left:0;
+    right:0;
+}
+#star1{
+    height:100px;
+    width:120px;
+    position:absolute;
+    top:20px;
+    left:120px;
+}
+#star2{
+    height:100px;
+    width:120px;
+    position:absolute;
+    top:20px;
+    right:120px;
+}
+#lema{
+    margin-top: 0px;
+    font-size: 40px;
+    font-family: Algerian;
+    text-align: center;
+    background: #000000;
+    color: #ffffff;
+}
+.local{
+    left: auto;
+    right: auto;
+    width: 700px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#local{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#subtitulo2{
+    text-align: center;
+    font-size: 50px;
+    font-family: Baskervil;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #F2CA00;
+}
+#link1{
+    text-align: center;
+    font-size: 35px;
+    font-family: Baskervil;
+    font-weight: bold;
+    text-decoration: none;
+    color: #2626FF;
+}
+#link1:hover{
+    background: #F2CA00;
+    color: #000000;
+}
+#link2{
+    text-align: center;
+    font-size: 35px;
+    font-family: Baskervil;
+    font-weight: bold;
+    text-decoration: none;
+    color: #2626FF;
+}
+#link2:hover{
+    color:#000000;
+    background: #2626FF;
+}
+#platinum{
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: monospace;
+    color:#8B8B8B;
+}
+#chariot{
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: monospace;
+    color:#5E5E5E;
+}#red{
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: monospace;
+    color:#FB0012;
+}#purple{
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: monospace;
+    color:#7A00CD;
+}

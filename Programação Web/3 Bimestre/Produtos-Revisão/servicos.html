@@ -1,0 +1,107 @@
+<html>
+    <head>
+        <title>Serviços-Fanboy Store</title>
+        <link rel="stylesheet"
+          type="text/css"
+          href="css/style.css">
+    </head>
+    <link rel="stylesheet"
+          type="text/css"
+          href="css/servicos.css">
+    <body>
+        <header>
+            <p id="titulo">Fanboy</p>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="quemSomos.html">Quem Somos</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="servicos.html">Serviços</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+        <p class="titulo2">Serviços</p>
+        <p class="subtitulo">Troca de Jogos Usados</p>
+        <p class="texto">&nbsp;&nbsp;&nbsp;Com o sistema de compra e venda de jogos usados você pode comprar jogos usados por um preço mais barato e vender os que você não quer mais!</p>
+        <p class="texto">&nbsp;&nbsp;&nbsp;Jogos usados disponíveis para compra:</p>
+        <section id="container">
+            <section class="item">
+                <img src="imagens/ForHonor.jpg"
+                     class="produto">
+                <br>
+                <label class="nome">For Honor</label>
+                <br>
+                <label class="preco">R$29,99</label>
+            </section>
+            <section class="item">
+                <img src="imagens/Destiny2.jpg"
+                     class="produto">
+                <br>
+                <label class="nome">Destiny 2</label>
+                <br>
+                <label class="preco">R$29,99</label>
+            </section>
+            <section class="item">
+                <img src="imagens/CoDBO4.jpg"
+                     class="produto">
+                <br>
+                <label class="nome">Call Of Duty Black Ops 4</label>
+                <br>
+                <label class="preco">R$499,99</label>
+            </section>
+            <section class="item">
+                <img src="imagens/ResidentEvil7.jpg"
+                     class="produto">
+                <br>
+                <label class="nome">Resident Evil 7</label>
+                <br>
+                <label class="preco">R$39,99</label>
+            </section>
+            <section class="item">
+                <img src="imagens/UntilDawn.jpg"
+                     class="produto">
+                <br>
+                <label class="nome">Until Dawn</label>
+                <br>
+                <label class="preco">R$9,99</label>
+            </section>
+        </section>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <form id="orcamento" name="orcamento">
+            <label class="subtitulo2">&#9679;Orçamento</label>
+            <br><br>
+            <label>Nome:</label>
+            <input type="text" name="txtNomeOrc" id="txtNomeOrc" size="50">
+            <br><br>
+            <label>Email:</label>
+            <input type="email" name="txtEmailOrc" id="txtEmailOrc" size="40">
+            <br><br>
+            <label>Nome do Jogo:</label>
+            <input type="text" name="txtNomeJogo" id="txtNome Jogo" size="40">
+            <br><br>
+            <label>Ano de Compra</label>
+            <input type="date" name="dtAnoCompra" id="dtAnoCompra">
+            <br><br>
+            <label>Condição do Jogo</label>
+            <select name="slCondicao" id="slCondicao">
+                <option>Selecione</option>
+                <option>Lacrado</option>
+                <option>Bom Estado</option>
+                <option>Usável</option>
+                <option>Mal Estado</option>
+            </select>
+            <br><br>
+            <label>Plataforma:</label>
+            <div id="rdPlataforma">
+                <input type="radio" name="rdPlataforma" id="rdPlataforma"><label>X-Box One</label>
+                <input type="radio" name="rdPlataforma" id="rdPlataforma"><label>Playstation 4</label>
+                <input type="radio" name="rdPlataforma" id="rdPlataforma"><label>Nintendo Switch</label>
+            </div>
+            <br>
+            <input type="reset" value="Cancelar" id="button">
+            <input type="submit" value="Finalizar" id="button"> 
+        </form>
+        <footer>Fanboy Store© Todos os Direitos Reservados</footer>
+    </body>
+</html>

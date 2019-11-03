@@ -1,0 +1,73 @@
+#content{
+    height:1400px;
+    background:#FFFFFF;
+    width:80%;
+    position:inherit;
+    top:0px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+#titulo2{
+    font-size: 50px;
+    font-family: Baskerville Old Face;
+    text-align: center;
+    text-decoration: underline;
+    color: #ffffff;
+    background: #000000;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.coquetel{
+    width:80%;
+    height:600px;
+    margin-left: 10%;
+    margin-right: 0;
+    margin-top: 20px;
+    background-color: #000000;
+}
+.subtitulos{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 35px;
+    font-family: Baskervil;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #000000;
+}
+.textos{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 30px;
+    font-family: Baskervil;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.textos2{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+}
+#subtitulo2{
+    text-align: center;
+    font-size: 40px;
+    font-family: Baskervil;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #F2CA00;
+}
+#link2{
+    text-align: center;
+    font-size: 30px;
+    font-family: Baskervil;
+    font-weight: bold;
+    text-decoration: none;
+}
+#link2:hover{
+    color:#000000;
+    background: #F2CA00;
+}

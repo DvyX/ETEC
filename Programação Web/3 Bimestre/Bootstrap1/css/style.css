@@ -1,0 +1,30 @@
+body{
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color:#000;
+}
+.nav{
+    background-color: #323232;
+}
+.nav-link{
+    color: #49FF01
+}
+.nav-link:hover{
+    color: #248000
+}
+.btn-primary{
+    background-color: #323232;
+    color: #49FF01;
+    border-color: #434343;
+}
+.btn-primary:hover{
+    background-color: #49FF01;
+    border-color: #49FF01;
+}
+.carousel{
+	margin:5%;
+}
+.card{
+	margin-top: 3%;
+	margin-bottom: 3%;
+}

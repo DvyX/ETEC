@@ -1,0 +1,91 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #747474;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: #2F0FA5;
+    text-align: center;
+}
+#titulo{
+    font-size: 50px;
+    padding-top: 15px;
+    padding-bottom: auto;
+    text-transform: uppercase;
+    font-family: "Imprint MT Shadow";
+    color: #ffffff;
+    text-decoration: underline;
+    text-align: center;
+}
+.titulo2{
+    font-size: 45px;
+    margin-top: -16px;
+    margin-left: -38px;
+    padding-bottom: auto;
+    font-family: "Constantia";
+    background-color: #000;
+    color: #ffffff;
+    text-decoration: underline;
+    text-align: center;
+}
+.subtitulo{
+    font-size: 35px;
+    font-family: "Constantia";
+    color: #fff;
+    text-decoration: underline;
+    text-align: center;
+} 
+.subtitulo2{
+    font-size: 30px;
+    font-family: "Constantia";
+    color: #000;
+    text-align: center;
+}
+.texto{
+    font-family: "Bahnschrift";
+    font-size: 28px;
+    color: #ffffff;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+nav{
+    margin-top: -16px;
+    padding: 0px;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    width: auto;
+    height: 60px;
+    background:#6507A0;
+}
+li a{
+    text-decoration: none;
+    color: #05E0FF;
+    text-transform: uppercase;
+    font-size: 30px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-left: -13px;
+    font-family: "Constantia";
+    margin-top: 15px;
+}
+li a:hover{
+    transition: 200ms;
+    color:#6507A0;
+    background:#05E0FF;
+    text-decoration: underline;
+}
+footer{
+    padding-top: 30px;
+    float: left;
+    width:100%;
+    height:70px;
+    background-color:#000000;
+    color:#ffffff;
+    text-align: center;
+    font-size: 30px;
+}

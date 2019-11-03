@@ -1,0 +1,231 @@
+.navbar{
+    height: 75px;
+    margin-left: 0px;
+    background: black;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.nav-link:hover{
+    color: #FFCB0F;
+}
+.nav-link{
+    color: white;
+    padding-left: 0px;
+}
+.menu{
+    height: 75px;
+    margin-left: 0px;
+    background: black;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px; 
+}
+.nav-item{
+    font-family: Franklin Gothic Medium;
+    margin-top: 1%;
+    font-size: 20px;
+}
+.logo{
+    width: 5,5%;
+    height: 100%;
+    margin-right: 0px;
+    padding-right: 0px;
+    float: left;
+    margin-top: 0px;
+    padding-right: 0px;
+}
+.flogo{
+    float: left;
+    width: 50%;
+}
+.container{
+    margin-left: 0px;
+    padding-left: 8px;
+}
+.douradin{
+    background: #FFCB0F;
+    margin-top: 0px;
+    height: 2px;
+    width: 100%;
+    padding: 0px;
+}
+
+.DesH{
+    color: #A8A8A8;
+    margin-top: 0px;
+    text-align: center;
+}
+.desC{
+    background: #000;
+    height: 70px;
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0px;
+}
+body{
+    background: #FAFAF9;
+}
+.bg-*{
+    color: #0F0F12;
+}
+.titulomenu{
+    margin-top: 8px;
+    font-family:  Franklin Gothic Medium
+}
+.rodape{
+    background: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.jumbotron{
+    margin-bottom: 0px;
+    margin-right: 0px;
+    background: black;
+    padding: 0px;
+}
+.container-jumbotron{
+    margin-right: 0px;
+    padding-top: 0px;
+}
+footer{
+    margin-right: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding: 5px;
+}
+.logor{
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.py-5{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.rodape1{
+    height: 35px;
+    color: white;
+}
+.rodape2{
+    margin-bottom: 0px;
+    height: 20px;
+    color:#817F85;
+}
+.rodape3{
+    height: 20px;
+}
+.rodapeb{
+    color: #1E1D1F;
+    height: 25px;
+    padding:0px;
+    margin-bottom: 0px;
+}
+.rodapebt{
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    background: #282729;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+.rodapebb{
+    height: 10px;
+    background: #282729;
+    margin-bottom: 0px;
+}
+h3{ 
+    font-family: "Century Gothic"; text-decoration: underline; 
+} 
+.orcamento{ 
+    padding: 1%; margin-left: 15%; margin-right: 15%; border-style: solid; border-color: #FFCB0F; border-radius: 20px; margin-top: 16px;
+} 
+.color{ 
+    width: 6%; height: 3%; 
+}
+a:hover{
+    text-decoration: none;
+    color: #FFCB0F;
+}
+a{
+    color: white;
+}
+.btn-dark{
+    background: black;
+}
+.btn-dark:hover{
+    background: black;
+    border-style: solid; 
+    border-color: #FFCB0F;
+    color: #FFCB0F;
+}
+.bgjb1 {
+    background-image: url(../imagens/crop.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 2%;
+    height: 794px;
+    border-style: solid; 
+    border-color: #FFCB0F;
+    margin-bottom: 2%;
+}
+.bgjb2 {
+    background-image: url(../imagens/crop2.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 2%;
+    height: 794px;
+    border-style: solid; 
+    border-color: #FFCB0F;
+    margin-bottom: 2%;
+}
+.titujb{
+    color: white;
+    font-size: 75px;
+}
+.textojb{
+    color: #E6E6E6;
+}
+.center-block{
+    float: none;
+}
+.carro{
+    margin-left: 3%;
+    border-style: solid; 
+    border-color: #FFCB0F;
+}
+.imghome{
+    border-style: solid; 
+    border-color: #FFCB0F;
+}
+.card{
+    margin-top: 2%;
+}
+.card1{
+    border-style: solid; 
+    border-color: #FFCB0F;
+}
+.btncom{
+    border-style: solid; 
+    border-color: #FFCB0F; 
+    background: black;
+}
+.btncom:hover{
+    border-style: solid; 
+    border-color: #FFCB0F; 
+    background: black;
+    color: #FFCB0F;
+}
+.text-dark{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
+#premium{
+    color: #ff0000;
+}

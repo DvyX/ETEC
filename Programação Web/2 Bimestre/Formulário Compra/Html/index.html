@@ -1,0 +1,95 @@
+<html>
+    <head>
+        <title>Finalização de Compra</title>
+    </head>
+<body>
+    <center>
+        <h1>Emissão de Nota</h1>
+    </center>
+    <br>
+    <form>
+        <label>Cliente</label>
+        <input type="text" name="txtCliente" id="txtCliente" size="50">
+        <br>
+        <br>
+        <label>Endereço</label>
+        <input type="text" name="txtEndereco" id="txtEndereco" size="40">
+        <label>N</label>
+        <input type="text" name="txtNumero" id="txtNumero" size="1">
+        <br>
+        <br>
+        <label>Complemento</label>
+        <input type="text" name="txtComplemeto" id="txtComplemento" size="20">
+        <label>Bairro</label>
+        <input type="text" name="txtBairro" id="txtBairro" size="20">
+        <br>
+        <br>
+        <label>Cidade</label>
+        <input  type="text" name="txtCidade" id="txtCidade" size="40">
+        <label>UF</label>
+        <select name="slUf" id="slUf">
+            <option>Selecione</option>
+            <option>AL</option>
+            <option>AM</option>
+            <option>ES</option>
+            <option>MG</option>
+            <option>PB</option>
+            <option>PR</option>
+            <option>RJ</option>
+            <option>SP</option>
+            <option>TO</option>
+        </select>
+    <center>
+        <h2>Produtos</h2>
+    </center>
+    <table border="1" align="center" width="1000 px" height="10 px">
+        <tr height="10 px">
+            <th>.</th>
+            <th width="50 px">Descrição</th>
+            <th width="20 px">Valor Unit.</th>
+            <th width="15 px">Quantidade</th>
+        </tr>
+        <tr height="10 px" align="center" valign="center">
+            <td align="center" valign="center">
+                <input type="checkbox" name="ckSelecao">
+            </td>
+            <td><p>Motorola Moto G6 32Gb</p></td>
+            <td><p>R$899,00</p></td>
+            <td width="100 px" align="center" valign="center">
+                    <input type ="text" name="txtQuantidade" id="txtQuantidade">
+            </td>
+        </tr>
+        <tr height="10 px" align="center" valign="center">
+            <td>
+                <input type="checkbox" name="ckSelecao2">
+            </td>
+            <td><p>Samsung Galaxy J8 64Gb</p></td>
+            <td><p>R$1349,00</p></td>
+            <td>
+                <input type="text" name="txtQuantidade2" id="txtQuantidade2">
+            </td>
+        </tr>
+            <tr height="10 px" align="center" valign="center">
+            <td>
+                <input type="checkbox" name="ckSelecao3">
+            </td>
+            <td><p>Apple Iphone 8 64Gb</p></td>
+            <td><p>R$3399,00</p></td>
+            <td>
+                <input type="text" name="txtQuantidade3" id="txtQuantidade3">
+            </td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <center>
+    <label>Forma de Pagamento</label>
+    <input type="radio" name="rdFormaDePagamento" id="rdFormaDePagamento">Boleto
+    <input type="radio" name="rdFormaDePagamento" id="rdFormaDePagamento">Débito em Conta
+    <input type="radio" name="rdFormaDePagamento" id="rdFormaDePagamento">Crédito
+    </center>
+    <input type="reset" value="Cancelar">
+    <input type="submit" value="Finalizar Compra"> 
+</form>
+</body>
+</html>

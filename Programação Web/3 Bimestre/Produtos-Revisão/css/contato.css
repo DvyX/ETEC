@@ -1,0 +1,28 @@
+label{
+    font-family: verdana;
+    font-size: 20px;
+}
+input{
+    height: 25px;
+}
+textarea{
+    height: 250px;
+    width: 500px;
+}
+#button{
+    height: 30px;
+    width: 100px;
+}
+form{
+    height: 550px;
+    margin: 0 auto;
+    width: 500px;
+    padding: 1em;
+    border: 1px;
+    background: #fff;
+    border: 5px;
+    border-radius: 25px;
+    border-color: #06D8FF;
+    border-right-style: double;
+    border-left-style: double;
+}

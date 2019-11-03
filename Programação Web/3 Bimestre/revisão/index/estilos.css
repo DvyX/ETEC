@@ -1,0 +1,155 @@
+body{
+    background-color:coral ;
+    font-family: arial;
+    height: 100%;
+    margin:0px;
+    padding:0px;
+    background-attachment: fixed;
+    background-image: url(img/AnimatedDeficientAlleycat-size_restricted.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+header{
+    color:darkblue;
+    text-align: center;  
+    height: 100px;
+    width: 100%;
+    position:inherit;
+    background-color:black; 
+    margin:0;
+    font-size: 40px;
+    font-family:Imprint MT Shadow;
+}
+#menu{
+    list-style: none;
+    text-decoration: none;
+    width: 100%;
+    height: 80px;
+    background-color:#000000;
+    font-family: Algerian;
+    position:relative;
+    top:-25px;
+}
+#menu ul li{
+    width:20%;
+    float:left;
+    font-size: 38px;
+    position:relative;
+    top:0px;
+    font-style: normal;
+    font-family: Algerian;
+    list-style: none;
+    right:20px;
+    background-color:black;
+    top:30px;
+}
+#menu ul li a{
+    color:;
+    width:100%;
+    position:relative;
+    font-family:Algerian;
+    font-size: 25px;
+    float: left;
+    text-align: center;
+    height:40px;
+    left:0;
+    top:0;
+    background-color: aqua;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+    background-color:blue;
+    color:black;
+    font-size:30px;
+}
+#title{
+    width:100%;
+    height:100px;
+    color:darkorchid;
+    font-size: 80px;
+    font-family:Imprint MT Shadow;
+    text-align: center;
+    top:-110px;
+    position:relative;
+    background-color:black;
+}
+.background{
+    width:100%;
+    height:1300px;
+    background-color:black;
+    opacity: 0.5;
+    position:absolute;
+    top:260px;
+    border-width:1px;
+    border-style:solid;
+    border-color: aqua;
+    left:-5px;
+}
+#produtos img{
+    width:300px;
+    height:350px;
+    position:relative;
+    border-radius: 8px;
+    list-style: none;
+    font-family:Algerian;
+    color:aqua;
+    margin-left:20px;
+    border-width:4px;
+    border-style:solid;
+    border-color: aqua;
+    left:-10px;
+}
+#produtos label{
+    width: 340px;
+    height: 600px;
+    border-width:4px;
+    border-style:solid;
+    border-color: aqua;
+    font-family:Imprint MT Shadow;
+    color:darkorchid;
+    font-size: 30px;
+    position:relative;
+    text-align:center;
+    display:inline-block;
+    background-color:black;
+    opacity:0.8;
+    transition:200ms;
+}
+#produtos label:hover{
+    font-family:Imprint MT Shadow;
+    color:darkorchid;
+    font-size: 32px;
+    position:relative;
+    text-align:center;
+    display:inline-block;
+    background-color:white;
+    opacity:1.0;
+    visibility: visible;
+    
+}
+#produtos label a .comprar{
+    width:140px;
+    height:60px;
+    position:relative;
+    left:-10px;
+    border-width:0px;
+    border-style:solid;
+    border-color: aqua;
+    bottom: 20px;
+    visibility:hidden;
+}
+#produtos label a .comprar:hover{
+    background-color:azure;
+    visibility:visible;
+}
+footer{
+    position:relative;
+    width:100%;
+    height:120px;
+    top:-100px;
+    background-color:black;
+    color:aqua;
+    text-align: center;
+    font-size: 30px;
+}
+    
