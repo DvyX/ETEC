@@ -1,33 +1,33 @@
 import java.util.Scanner;
 public class exer15 {
-	public static void main(String[] args) {
-		Scanner in =  new Scanner(System.in);
-		int f=0,r=0,h=0;
-		int a[] = new int[11];
+	public static void main(String[]args) {
+		
+		//CÓDIGO NÃO FUNCIONA!
+		//CÓDIGO NÃO FUNCIONA!
+		//CÓDIGO NÃO FUNCIONA!
+		
+		Scanner in = new Scanner(System.in);
+		int a[] = new int[10];
 		int b[] = new int[10];
 		int c[] = new int[10];
-		for (int i=0;i<10;i++) {
+		int co=0;
+		for(int i=0;i<10;i++) {
+			co=0;
 			System.out.println("Digite o "+(i+1)+"º valor:");
 			a[i] = in.nextInt();
-			b[i]=a[i];
-			c[i]=a[i];
 		}
-		for (int i=0;i<10;i++) {
-			for (int z=i;(z+1)<10;z++) {
-				if (a[h]<a[z]) {
-					b[i]=a[h];
-					a[z]=a[h];
-					h++;
+		for(int i=0;i<10;i++) {
+			co=0;
+			for(int x=0;x<10;x++) {
+				if(a[i]>c[x]) {
+					c[x] = a[i];
 				}
+				co++;
+				i++;
 			}
 		}
-		System.out.print("Crescente:");
-		for (int i=0;i<10;i++) {
-			System.out.print(b[i]+" ,");
-		}
-		System.out.print("| Decrescente:");
-		for (int i=0;i<10;i++) {
-			System.out.print(c[i]+" ,");
+		for(int i=0;i<10;i++) {
+			System.out.print(c[i]+", ");
 		}
 	}
 }
