@@ -1,2 +1,2 @@
 # School
-Coisas de escola
+Projetos escolares
