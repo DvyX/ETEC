@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(56, 56, 56);
+}
+.questoes{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: yellow;
+    background-color: rgb(221, 221, 221);
+}
+.texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titulo{
+    background-color: rgb(199, 199, 199);
+}
+.containera{
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.nomes{
+    border-style: double;
+    border-color: aqua;
+    background-color: #fff;
+}
+h3{
+    font-family: century-gothic;
+}

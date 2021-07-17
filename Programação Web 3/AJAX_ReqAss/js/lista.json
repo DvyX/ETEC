@@ -1,0 +1,34 @@
+{
+    "userList": [
+        {
+            "ID": 0,
+            "nome": "Cesar",
+            "idade": 20,
+            "email": "cesar.cohen@gmail.com"
+        },
+        {
+            "ID": 1,
+            "nome": "Elizabeth",
+            "idade": 76,
+            "email": "liz.webber@gmail.com"
+        },
+        {
+            "ID": 2,
+            "nome": "Thiago",
+            "idade": 33,
+            "email": "thiagao.fritz@hotmail.com"
+        },
+        {
+            "ID": 3,
+            "nome": "Joui",
+            "idade": 24,
+            "email": "joui.joui@gmail.com"
+        },
+        {
+            "ID": 4,
+            "nome": "Arthur",
+            "idade": 28,
+            "email": "gauderios.abutres@hotmail.com"
+        }
+    ]
+}

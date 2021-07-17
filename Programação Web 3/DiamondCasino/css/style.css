@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif !important;
+    background-image:url("./gold.gif") !important;
+    background-size:100% !important;
+    overflow-x:hidden;
+}
+
+.formLogin{
+    text-align: right;
+}
+
+.navbar-nav .nav-item:hover {
+text-decoration: underline !important;
+background-color:rgba(00, 00, 00, 0.755);
+border-width: 1px !important;
+border-color: gold !important;
+border-radius: 10%;
+border-style: solid;
+}
+.dropdown-item:hover{
+    background-color:gray !important;
+}

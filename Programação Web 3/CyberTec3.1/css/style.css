@@ -1,0 +1,62 @@
+.indexBody{
+    background-color: #00c5b5; 
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.formLogin{
+    border: 3px;
+    border-style: double;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+.nav-item{
+    font-size: 20px;
+}
+.nav-item:hover{
+    background-color: rgb(94, 250, 255);
+    transition: 1s;
+}
+.sair{
+    color: rgb(119, 119, 119);
+}
+.sair:hover{
+    background-color: rgb(168, 168, 168);
+    transition: 1s;
+}
+.nav{
+    background-color: #d5d2ff;
+    padding: 30px;
+    margin-top: -25px;
+    border-style: solid;
+    border-width: 1px;
+}
+footer{
+    bottom: 0px;
+    position: relative;
+    width: 100%;
+    background-color: #d5d2ff;
+    border-style: solid;
+    border-width: 1px;
+}
+.formBody{
+    background-color: #acacac;
+}
+.row{
+    background-color: #fff;
+    padding: 30px;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    margin-right: -20%;
+    margin-left: -20%;
+}
+.globalForms{
+    text-align: center;
+    border-style: ridge ;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
