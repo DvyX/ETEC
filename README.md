@@ -1,2 +1,3 @@
-# School
-Projetos escolares
+# Escola
+
+Projetos escolares realizados na Etec de Guaianazes
